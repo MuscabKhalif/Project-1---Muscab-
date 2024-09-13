@@ -15,7 +15,6 @@ I’m passionate about technology and how it can transform the way we work, whic
 •	Automating infrastructure provisioning and deployments
 📫 How to reach me:
 •	Email: Muscabkhalif@outlook.com
-•	LinkedIn:  Muscab Khalif | LinkedIn
-•	GitHub:
+•	LinkedIn:  Muscab Khalif 
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’m a tech enthusiast who loves exploring the latest tools, but when I’m not coding, you’ll probably find me outdoors enjoying a long-distance run!
